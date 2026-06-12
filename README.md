@@ -136,3 +136,31 @@ Check out our resources for additional guidance too before opening an issue:
 This library is licensed under the [Apache 2.0 License](./documents/LICENSE).
 
 Latest released version: v1.32.0
+
+<!-- PLATFORM_SUPPORT_START -->
+# Platform Support
+
+## Tier 1 — Fully Supported & Tested in CI
+
+| Platform | Architecture |
+|----------|--------------|
+| android 8.0 | API level 26 |
+| macos-15.7 | arm64 |
+| ubuntu-24.04.4 | x64 |
+| windows-11 | x64 |
+
+## Tier 2 — Supported (Not Tested in CI)
+
+| Platform | Architecture |
+|----------|--------------|
+| android 7.0 | API level 24 |
+| macOS-14 | x64, arm64 |
+
+## Supported Tools
+
+| Name | Version | Platforms |
+|------|---------|-----------|
+| Gradle | 8.5.1 | Android |
+| JDK | 8+ | All |
+
+<!-- PLATFORM_SUPPORT_END -->
