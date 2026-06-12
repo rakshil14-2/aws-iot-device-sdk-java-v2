@@ -147,6 +147,7 @@ Latest released version: v1.32.0
 | android 8.0 | API level 26 |
 | macos-15.7 | arm64 |
 | ubuntu-24.04.4 | x64 |
+| windows-11 | x64 |
 
 ## Tier 2 — Supported (Not Tested in CI)
 
@@ -154,7 +155,6 @@ Latest released version: v1.32.0
 |----------|--------------|
 | android 7.0 | API level 24 |
 | macOS-14 | x64, arm64 |
-| windows-11 | x64 |
 
 ## Supported Tools
 
